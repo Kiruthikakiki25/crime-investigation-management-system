@@ -1,0 +1,4 @@
+case_id,title,crime_type,date_reported,location,status,officer_id
+C001,c001,theft,25-06-2026,trichy,closed,janani
+C002,mobile theft,theft,2026-06-29,trichy,Open,002
+C003,mobile robbery,robbery,2026-07-01,trichy,Open,003

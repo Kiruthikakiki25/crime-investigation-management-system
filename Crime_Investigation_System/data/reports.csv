@@ -1,0 +1,3 @@
+report_id,case_id,summary,generated_date,officer_id
+R001,C002,Case: mobile theft | Type: theft | Status: Open | Evidence: 1 item(s) - CCtv | Suspects: 1 - yamuna (Wanted) | Investigating Officer: 002,2026-06-29,002
+R002,C003,Case: mobile robbery | Type: robbery | Status: Open | Evidence: 1 item(s) - CCTv | Suspects: 1 - Arun (Wanted) | Investigating Officer: 003,2026-07-01,003
